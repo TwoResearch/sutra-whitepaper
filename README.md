@@ -21,6 +21,7 @@ pdflatex main.tex
 bibtex main
 pdflatex main.tex
 pdflatex main.tex
+```
 
 ## Table of Contents
 - [Introduction](#Introduction)
