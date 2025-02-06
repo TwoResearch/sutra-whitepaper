@@ -1,10 +1,11 @@
-# sutra-whitepaper
+# SUTRA Whitepaper
 This repository contains the complete LaTeX files, bibliography, figures, and necessary scripts to compile the paper. SUTRA introduces a novel dual-transformer approach that decouples concept learning and language learning.
 
 
 ## Repository Structure
 
 - `README.md` - This file
+- `SUTRA-Whitepaper.pdf` - PDF of pre-compiled whitepaper
 - `arxiv.sty` - ArXiv style file for formatting
 - `images/` - Directory containing figures and diagrams
 - `main.tex` - Main LaTeX source file
@@ -20,3 +21,8 @@ pdflatex main.tex
 bibtex main
 pdflatex main.tex
 pdflatex main.tex
+
+## Table of Contents
+- [Introduction](#Introduction)
+- [SUTRA's Dual Transformer Architecture](#sutra-models-comes-in-multiple-flavors)
+- [Quantitative Evaluation](#repository-structure)
