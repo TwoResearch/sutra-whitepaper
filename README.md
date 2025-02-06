@@ -3,12 +3,12 @@ This repository contains the complete LaTeX files, bibliography, figures, and ne
 
 
 ## Repository Structure
-.
-├── README.md
-├── arxiv.sty
-├── images
-├── main.tex
-└── references.bib
+
+- `README.md` - This file
+- `arxiv.sty` - ArXiv style file for formatting
+- `images/` - Directory containing figures and diagrams
+- `main.tex` - Main LaTeX source file
+- `references.bib` - Bibliography file with references
 
 ## How to Compile
 
