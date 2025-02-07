@@ -49,7 +49,7 @@ also establishes a new benchmark for operational efficiency and scalability in A
 ### SUTRA's Dual Transformer Architecture
 
 SUTRA is a novel multilingual large language model architecture that is trained by decoupling concept
-learning from language learning. The input is processed through a multilingual concept encoder, followed by the
+learning from language learning. The input is processed through a multilingual concept encoder,followed by the
 concept model and finally through a multilingual concept decoder to generate the output response.
 
 ![SUTRA Dual Transformer Architecture](images/inference_pass.png)
