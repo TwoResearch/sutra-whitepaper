@@ -76,3 +76,12 @@ The table below shows the multilingual performance of various leading models on 
 | Arabic       | 67       | 60         | 48         | 80       | 49         | 48             | 39             | --     | --     |
 | Japanese     | 75       | 70         | 56         | 80       | 57         | 60             | 51             | --     | --     |
 
+### Citation
+```
+@article{bendale2024sutra,
+  title={SUTRA: Scalable Multilingual Language Model Architecture},
+  author={Bendale, Abhijit and Sapienza, Michael and Ripplinger, Steven and Gibbs, Simon and Lee, Jaewon and Mistry, Pranav},
+  journal={arXiv preprint arXiv:2405.06694},
+  year={2024}
+}
+```
